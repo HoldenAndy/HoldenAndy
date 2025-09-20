@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/andrés-carrasco-6b3278346" target="_blank">
+  <a href="www.linkedin.com/in/andrés-carrasco-6b3278346](https://www.linkedin.com/in/andr%C3%A9s-carrasco-6b3278346" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -65,9 +65,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/HoldenAndy/HoldenAndy/output/snake.svg" alt="Snake animation" />
-
-###
