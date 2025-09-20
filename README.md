@@ -5,13 +5,15 @@
 ###
 
 <div align="center">
-  <img src="www.linkedin.com/in/andrés-carrasco-6b3278346" height="25" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/andrés-carrasco-6b3278346" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HoldenAndy.HoldenAndy&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HoldenAndy.HoldenAndy&right_color=green"  />
 </div>
 
 ###
@@ -20,11 +22,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mí</h3>
 
 ###
 
-<p align="left">Soy Andrés Alonso Carrasco Martínez<br>Estudiante de Ingeniería de sistemas y Java Web Developer</p>
+<p align="left">Soy Andrés Carrasco Martínez<br>Estudiante de ingeniería de Sistemas e Informática<br>Java Web Developer</p>
 
 ###
 
@@ -64,3 +66,8 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/HoldenAndy/HoldenAndy/output/snake.svg" alt="Snake animation" />
+
+###
