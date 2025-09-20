@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Soy Andrés Carrasco Martínez<br>Estudiante de ingeniería de Sistemas e Informática<br>Java Web Developer</p>
+<p align="left">Soy Andrés Carrasco Martínez<br>Estudiante de ingeniería de Sistemas e Informática<br>Java Web Developer | Backend Developer</p>
 
 ###
 
