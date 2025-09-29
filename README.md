@@ -29,7 +29,6 @@ Integración con MySQL / SQLServer.
 Buenas prácticas de programación y control de versiones con Git/GitHub.
 Interés en arquitecturas modernas y escalables.
 </p>
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
