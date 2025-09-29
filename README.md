@@ -19,7 +19,15 @@
 ###
 
 <p align="left">Soy Andrés Carrasco Martínez<br>Estudiante de ingeniería de Sistemas e Informática<br>Java Web Developer | Backend Developer</p>
+<p align="left">Soy un desarrollador backend con 1 año de experiencia construyendo sistemas web utilizando Java y el ecosistema Spring (Spring Boot, Spring MVC, Spring Data, Spring Security). Me especializo en diseñar y mantener la lógica de negocio, crear APIs REST eficientes y trabajar con bases de datos relacionales.
 
+Me destaco por:
+Desarrollo backend con Java + Spring.
+Diseño e implementación de APIs RESTful.
+Integración con MySQL / SQLServer.
+Buenas prácticas de programación y control de versiones con Git/GitHub.
+Interés en arquitecturas modernas y escalables.
+</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
