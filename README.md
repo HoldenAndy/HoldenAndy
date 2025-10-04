@@ -20,7 +20,7 @@
 
 <p align="left">Soy Andrés Carrasco Martínez<br>Estudiante de ingeniería de Sistemas e Informática<br>Backend Developer | Java - Spring |</p>
 <p align="left">Me apasiona la tecnología y la innovación, cuento con más de un año de experiencia construyendo sistemas web utilizando Java y el ecosistema Spring (Spring Boot, Spring MVC, Spring Data, Spring Security). En lo que me centro mayormente es en diseñar y mantener la lógica de negocio, crear APIs REST eficientes y trabajar con bases de datos relacionales.
-Además, tengo cocimiento de la metodología SCRUM y la he aplicado en proyectos en equipo con el software de gestión de proyectos JIRA.
+Además, tengo cocimiento de la metodología SCRUM y la he aplicado en proyectos en equipo con el software de gestión de proyectos JIRA.</p>
 
 Para ser honestos, considero que me destaco en:
 Desarrollo backend con Java + Spring.
