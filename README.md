@@ -23,11 +23,11 @@
 Además, tengo cocimiento de la metodología SCRUM y la he aplicado en proyectos en equipo con el software de gestión de proyectos JIRA.</p>
 
 Para ser honestos, considero que me destaco en:
-<p align="left">Desarrollo backend con Java + Spring.</p>
-<p align="left">Diseño e implementación de APIs RESTful.</p>
-<p align="left">Integración con MySQL / SQLServer.</p>
-<p align="left">Buenas prácticas de programación y control de versiones con Git/GitHub.</p>
-<p align="left">Interés en arquitecturas modernas y escalables.</p>
+<p align="left">- Desarrollo backend con Java + Spring.</p>
+<p align="left">- Diseño e implementación de APIs RESTful.</p>
+<p align="left">- Integración con MySQL / SQLServer.</p>
+<p align="left">- Buenas prácticas de programación y control de versiones con Git/GitHub.</p>
+<p align="left">- Interés en arquitecturas modernas y escalables.</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
